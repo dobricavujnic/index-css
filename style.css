@@ -1,0 +1,19 @@
+.green {
+	color:green;
+}
+.red {
+    color:red;
+}
+.red1 {
+    color:red;
+}
+.blue {
+    color:blue;
+}
+#container1 p::after {
+    content:"-NEW";
+	color:yellow;
+}
+#italic1:hover {
+    font-style:italic;
+}	
